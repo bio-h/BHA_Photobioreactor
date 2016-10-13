@@ -1,6 +1,6 @@
 # DIY Photobioreactor
 
-<img src="banner.jpg" alt="DIY Photobioreactor" style="width: 200px;" align="right" hspace=5 vspace=5 />
+<img src="banner.jpg" alt="DIY Photobioreactor" style="width: 200px;" width=200 align="right" hspace=5 vspace=5 />
 
 The first release contains the source files of the designs and materials used during the #FOOD2030EU event in Brussels on Oct 12, 2016. The goal of that workshop was to prototype a device and have a discussion on bottom-up citizens led protein production. We built our own photobioreactor with the aim to grow Spirulina.
 
