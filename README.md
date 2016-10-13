@@ -22,6 +22,6 @@ This repo contains:
 * Bill of Materials
 * Arduino Code
 * Fritzing wiring scheme
-* SVG lasercut file
+* SVG lasercut file (by Iris de Vries)
 * Electronics Assembly guide
 * Pictures

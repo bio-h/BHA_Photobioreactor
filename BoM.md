@@ -8,8 +8,8 @@ These are the parts you will need to assemble the photobioreactor:
 
 |No|Amount|Description|Supplier NL|Cost|
 | ------------: | ------------: | :------------ | :------------ | ------------: |
-|1|1|Big sheet of cardboard, just use an old box|-|
-|2|1|Water proof temperature sensor NTC|[HackerStore](http://www.hackerstore.nl/Artikel/298), [Prototype Shop]*http://www.prototypeshop.nl/temperatuursensor-waterdicht-ntc-10k-b3950-met-bevestigingsoog), [Adafruit](https://www.adafruit.com/product/372)|2.95|
+|1|1|Big sheet of cardboard, just use an old box|-|-|
+|2|1|Water proof temperature sensor NTC|[HackerStore](http://www.hackerstore.nl/Artikel/298), [Prototype Shop](http://www.prototypeshop.nl/temperatuursensor-waterdicht-ntc-10k-b3950-met-bevestigingsoog), [Adafruit](https://www.adafruit.com/product/372)|2.95|
 |3|1|10K resistor|[Farnell](http://nl.farnell.com/te-connectivity/cfr16j10k/resistor-carbon-10k-0-25w-5/dp/2329474), [EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=7016)|0.06|
 |4|1|I2C LCD display|[Bens Electronics](https://benselectronics.nl/16-x-2-hd44780-lcd-+-i2c-adapter-module/), [HackerStore](http://www.hackerstore.nl/Artikel/82)[iPrototype](https://iprototype.nl/products/components/led-lcd/lcd16x2-I2C-BL)|5.95|
 |5|1|Digital Lux sensor (*1)|[HobbyElectronica](https://www.hobbyelectronica.nl/product/tsl2561-digitale-lux-licht-sensor/)|7.95|
