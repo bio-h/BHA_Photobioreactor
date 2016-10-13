@@ -1,4 +1,4 @@
-# BHA_Photobioreactor
+# DIY Photobioreactor
 
 <img src="banner.jpg" alt="DIY Photobioreactor" style="width: 200px;" align="right" hspace=5 vspace=5 />
 
@@ -27,3 +27,5 @@ This repo contains:
 * DXF lasercut file (by Iris de Vries)
 * Electronics Assembly guide
 * Pictures
+
+Special thanks to: #FOOD2030EU @TogetherSci @waag #PolicyLabEU @EU_ScienceHub
