@@ -12,7 +12,7 @@ The Photobioreactor is designed to control or monitor the following parameters:
 * Measure the temperature
 * Display these values on an LCD screen
 
-Follow these linsk for more information on [Spirulina](http://biohackacademy.github.io/bha3/annex/culture-collection/spirulina-maxima/) and its preferred [growth medium](http://biohackacademy.github.io/bha3/annex/cultivation-media/spirulina-medium/).
+Follow these links for more information on [Spirulina](http://biohackacademy.github.io/bha3/annex/culture-collection/spirulina-maxima/) and its preferred [growth medium](http://biohackacademy.github.io/bha3/annex/cultivation-media/spirulina-medium/).
 
 Here is a [video of a fully completed device](https://www.instagram.com/p/BLeMfMBlUFr/?taken-by=pvanboheemen).
 
