@@ -235,7 +235,11 @@ void loop()
   lcd.print(hour());
   printLCDDigits(minute());
   lcd.print(" ");
-  lcd.print(LEDtoggle);
+  if(LEDtoggle) {
+    lcd.print("*");
+  } else {
+    lcd.print("-");
+  }
   lcd.setCursor(0,1);
   lcd.print("pH:");  
   lcd.print(int(phValue));
