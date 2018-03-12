@@ -16,7 +16,7 @@ These are the parts you will need to assemble the photobioreactor:
 |6|1|Digital lux sensor (*1)|[Bens Electronics](https://benselectronics.nl/gy302-bh1750-licht-intensiteit-sensor/)|3.50|
 |7|1|Backflow valve|[Vijverbenodigdheden](https://www.vijverbenodigdheden.nl/tussenklep-terugslagklep-4-mm)|0.75|
 |8|1|pH sensor|[iPrototype](https://www.iprototype.nl/products/components/sensors/analog-ph-meter-kit)|33.95|
-|9|1|Relay|[Bens Electronics](https://benselectronics.nl/2-voudig-5v-relais-laag-actief/)|4.35|
+|9|1|Relay|[Hobby Electronica](https://www.hobbyelectronica.nl/product/relais-module-2-kanaals-5v/)|2.95|
 |10|1|Breadboard|[Bens Electronics](https://benselectronics.nl/breadboard-400-points/), [HackerStore](http://www.hackerstore.nl/Artikel/50)|3.00|
 |11|2|Jumpwires|[Bens Electronics](https://benselectronics.nl/dupont-20cm-male-male/), [HackerStore](http://www.hackerstore.nl/Artikel/472)|0.75|
 |12|2|Male-female wires|[Bens Electronics](https://benselectronics.nl/dupont-20cm-male-female/), [HackerStore](http://www.hackerstore.nl/Artikel/222)|0.75|
